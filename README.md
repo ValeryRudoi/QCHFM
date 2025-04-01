@@ -1,4 +1,4 @@
-# QCHFM
+# QCHFM CODE
 Quantum-Coherent Hybrid Flow Modeling
 
 ## 🧪 QCHFM 2D Simulation Prototype
